@@ -71,14 +71,14 @@ Place a `.bundlerrc` file in your input directory to override defaults:
 Concatenate all text files in `./src` into `project-files.txt`:
 
 ```bash
-npx github:<your-user>/<your-repo>@v1.0.0 conscript -d ./src -o project-files.txt
+npx github:btray77/conscript@v1.0.0 conscript -d ./src -o project-files.txt
 ```
 
 Create only a list of files (no contents):
 
 ```bash
 echo '{ "outputFormat": "list" }' > .bundlerrc
-npx github:<your-user>/<your-repo>@v1.0.0 conscript -d ./src -o file-list.txt
+npx github:btray77/conscript@v1.0.0 conscript -d ./src -o file-list.txt
 ```
 
 ---
