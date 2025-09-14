@@ -1,8 +1,3 @@
-Here’s a complete **README.md** you can drop straight into your `conscript` repo.
-It explains what Conscript does, how to install/run it with `npx`, shows options, and includes the license section.
-
----
-
 ### `README.md`
 
 ````md
@@ -111,9 +106,4 @@ Pull requests and suggestions are welcome! Please open an issue before making ma
 
 ---
 
-```
-
----
-
-Would you like me to also generate the actual `LICENSE` file (with the full CC BY 4.0 text) alongside this README so it’s ready to upload?
 ```
