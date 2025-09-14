@@ -1,0 +1,14 @@
+{
+  "name": "conscript",
+  "version": "1.0.0",
+  "description": "Conscript: project concatenation CLI that respects .gitignore and optional .bundlerrc",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "conscript": "./conscript.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "ignore": "^5.3.2"
+  }
+}
